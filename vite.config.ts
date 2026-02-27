@@ -13,7 +13,7 @@ export default defineConfig({
         name: 'almoutamayiz',
         short_name: 'almoutamayiz',
         description: 'رفيقك الذكي للنجاح في البكالوريا',
-        theme_color: '#000000',
+        theme_color: '#ffc633',
         background_color: '#000000',
         display: 'standalone',
         orientation: 'portrait',
